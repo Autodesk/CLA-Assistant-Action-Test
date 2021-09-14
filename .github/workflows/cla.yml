@@ -33,8 +33,9 @@ jobs:
           #signed-commit-message: 'For example: $contributorName has signed the CLA in #$pullRequestNo'
           custom-notsigned-prcomment: >
             Thank you for your submission, we really appreciate it. We ask that you sign our [Contributor License Agreement]($pathToCLADocument) before we can accept your contribution.
-
+            
             If you are an Individual Contributor you can sign our CLA by posting a Pull Request Comment same as the below format.
+            
             If you are a corporate Contributor you must fill out our Corporate CLA which can be found [here](https://github.com/Autodesk/maya-usd/blob/dev/doc/AutodeskFormCorpContribAgmtForOpenSource.docx).
           #custom-pr-sign-comment: 'The signature to be committed in order to sign the CLA'
           #custom-allsigned-prcomment: 'pull request comment when all contributors has signed, defaults to **CLA Assistant Lite bot** All Contributors have signed the CLA.'
