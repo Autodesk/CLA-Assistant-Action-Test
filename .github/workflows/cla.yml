@@ -32,7 +32,7 @@ jobs:
           #create-file-commit-message: 'For example: Creating file for storing CLA Signatures'
           #signed-commit-message: 'For example: $contributorName has signed the CLA in #$pullRequestNo'
           custom-notsigned-prcomment: |
-            Thank you for your submission, we really appreciate it. We ask that you sign our [Contributor License Agreement]($pathToCLADocument) before we can accept your contribution.
+            Thank you for your submission, we really appreciate it. We ask that you sign our [Contributor License Agreement](https://github.com/Autodesk/CLA-Assistant-Test-Signatures/blob/master/CLA.md) before we can accept your contribution.
             
             If you are an **Individual Contributor** you can sign our CLA by posting a Pull Request Comment same as the below format.
             If you are a **Corporate Contributor** you must fill out our Corporate CLA which can be found [here](https://github.com/Autodesk/maya-usd/blob/dev/doc/AutodeskFormCorpContribAgmtForOpenSource.docx).
